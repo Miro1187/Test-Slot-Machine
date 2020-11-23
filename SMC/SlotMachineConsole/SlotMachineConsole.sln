@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachineConsole", "SlotMachineConsole.csproj", "{95567D94-8D8E-4946-83DE-F906FA812D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common.csproj", "{4452AEEB-DFD0-4E1E-8635-6538496895CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "..\Engine\Engine.csproj", "{B840C946-118B-4320-BE93-7FB568F98ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95567D94-8D8E-4946-83DE-F906FA812D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95567D94-8D8E-4946-83DE-F906FA812D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95567D94-8D8E-4946-83DE-F906FA812D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95567D94-8D8E-4946-83DE-F906FA812D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4452AEEB-DFD0-4E1E-8635-6538496895CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4452AEEB-DFD0-4E1E-8635-6538496895CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4452AEEB-DFD0-4E1E-8635-6538496895CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4452AEEB-DFD0-4E1E-8635-6538496895CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B840C946-118B-4320-BE93-7FB568F98ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B840C946-118B-4320-BE93-7FB568F98ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B840C946-118B-4320-BE93-7FB568F98ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B840C946-118B-4320-BE93-7FB568F98ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A12090B-291F-438D-8166-CD2A54CE3F20}
+	EndGlobalSection
+EndGlobal
