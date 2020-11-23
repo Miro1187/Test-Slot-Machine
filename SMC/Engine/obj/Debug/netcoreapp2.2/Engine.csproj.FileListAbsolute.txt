@@ -1,0 +1,12 @@
+E:\source\SMC\Engine\bin\Debug\netcoreapp2.2\Engine.deps.json
+E:\source\SMC\Engine\bin\Debug\netcoreapp2.2\Engine.dll
+E:\source\SMC\Engine\bin\Debug\netcoreapp2.2\Engine.pdb
+E:\source\SMC\Engine\bin\Debug\netcoreapp2.2\Common.dll
+E:\source\SMC\Engine\bin\Debug\netcoreapp2.2\Common.pdb
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.csprojAssemblyReference.cache
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.csproj.CoreCompileInputs.cache
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.AssemblyInfoInputs.cache
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.AssemblyInfo.cs
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.csproj.CopyComplete
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.dll
+E:\source\SMC\Engine\obj\Debug\netcoreapp2.2\Engine.pdb
